@@ -1,0 +1,22 @@
+id: A53942356
+title: Prayer to Padmasambhava, Longchenpa and Jigme Lingpa
+type: translation
+pechas:
+- I2502B5FA
+- I8F3D9B9F
+- IE4CA44C5
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:43:20.536941
+  last_modified_at: 2023-01-04 11:43:20.536955
+  collections:
+  - Dodrupchen Jigme Tenpe Nyima Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I2502B5FA/0A58: B444
+  I8F3D9B9F/1FAC: B444
+  IE4CA44C5/1900: B444
